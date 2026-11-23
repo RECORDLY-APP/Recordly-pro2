@@ -1,0 +1,8 @@
+{
+  "name": "Recordly",
+  "description": "Simple records and clear payment tracking with step-by-step guidance, quick mobile actions, and instant share links.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
